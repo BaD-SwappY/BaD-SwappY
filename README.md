@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BaD-SwappY
-- 👀 I’m interested in python programming and A.I..
-- 🌱 I’m currently learning B.E. in Information Technology.
+- 👋 Hi, I’m SwappY.
+- 👀 I’m interested in Software and Web Development.
+- 🌱 I’m Graduted in Bachelor of Engineering (Information Technology).
 - 💞️ I’m looking to collaborate on Technology and Humans.
 - 📫 How to reach me 
 
